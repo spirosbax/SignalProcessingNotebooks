@@ -457,6 +457,12 @@ git-tree-sha1 = "132e468bf7d67ee6c997c160b982a7ab2e7c3e37"
 uuid = "995b91a9-d308-5afd-9ec6-746e21dbc043"
 version = "0.6.4"
 
+[[Plotly]]
+deps = ["Base64", "DelimitedFiles", "HTTP", "JSON", "PlotlyJS", "Reexport"]
+git-tree-sha1 = "7634def3aea4a58d8f13687e9c72b2c1bfaa61ce"
+uuid = "58dd65bb-95f3-509e-9936-c39a10fdeae7"
+version = "0.3.0"
+
 [[PlotlyBase]]
 deps = ["Dates", "DelimitedFiles", "DocStringExtensions", "JSON", "LaTeXStrings", "Logging", "Requires", "Statistics", "UUIDs"]
 git-tree-sha1 = "3bf75544fb56640f6f7ccd95e052b12589cc7474"
